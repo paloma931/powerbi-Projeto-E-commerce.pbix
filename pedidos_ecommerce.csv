@@ -1,0 +1,16 @@
+id_pedido,cliente,categoria,produto,cidade,valor,quantidade,valor_por_unidade
+1,Ana,Eletrônicos,Fone Bluetooth,São Paulo,350.0,2,175.0
+2,Carlos,Casa,Cafeteira,Santos,280.0,1,280.0
+3,Mariana,Eletrônicos,Smartwatch,São Paulo,850.0,1,850.0
+4,João,Esportes,Tênis de Corrida,Campinas,420.0,2,210.0
+5,Beatriz,Casa,Air Fryer,São Paulo,650.0,1,650.0
+6,Lucas,Eletrônicos,Caixa de Som,Santos,480.0,1,480.0
+7,Ana,Livros,Livro de Ficção,São Paulo,90.0,3,30.0
+8,Carlos,Esportes,Bicicleta,Campinas,1800.0,1,1800.0
+9,Mariana,Casa,Aspirador de Pó,Santos,550.0,1,550.0
+10,João,Eletrônicos,Tablet,São Paulo,1200.0,1,1200.0
+11,Beatriz,Livros,Livro Técnico,Campinas,150.0,2,75.0
+12,Lucas,Esportes,Mochila Esportiva,Santos,230.0,2,115.0
+13,Ana,Casa,Jogo de Panelas,São Paulo,720.0,1,720.0
+14,Carlos,Eletrônicos,Teclado Mecânico,Campinas,390.0,1,390.0
+15,Mariana,Esportes,Bola de Futebol,Santos,120.0,3,40.0
